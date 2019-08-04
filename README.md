@@ -2,9 +2,6 @@
 
 Authors: Erin Hwang, Vala Rahmani
 
-
-
-
 # Hackathon Phase 1
 
 ## Objective:
