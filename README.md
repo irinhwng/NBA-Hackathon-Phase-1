@@ -17,7 +17,7 @@ Predict Instagram engagements based on the following information:
     
 
 ## Results
-- Random Forest had the best overall train, test, and MAPE score when GridSearching for optimal paramters. 
+- Random Forest had the best overall train, test, and MAPE score when GridSearching for optimal parameters. 
 
 Here is a table of our results when GridSearching for optimal parameters:
 
