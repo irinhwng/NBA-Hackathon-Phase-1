@@ -1,4 +1,4 @@
-<img align="left" width="200" height="200" src="./visuals/nba.png">
+<img align="center" width="200" height="200" src="./visuals/nba.png">
 
 Authors: Erin Hwang, Vala Rahmani
 
