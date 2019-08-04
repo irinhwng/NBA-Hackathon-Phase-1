@@ -1,4 +1,4 @@
-<img src="./visuals/nba.png" style= "int: left; margin: 10px; height: 50px"> 
+<img src="./visuals/nba.png" style= "float: left; margin: 1px; height: 1px"> 
 
 Authors: Erin Hwang, Vala Rahmani
 
