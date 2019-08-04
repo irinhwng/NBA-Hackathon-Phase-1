@@ -1,6 +1,6 @@
 <img align="center" width="200" height="200" src="./visuals/nba.png">
 
-Authors: Erin Hwang, Vala Rahmani
+**Authors: Erin Hwang, Vala Rahmani**
 
 # Hackathon Phase 1
 
