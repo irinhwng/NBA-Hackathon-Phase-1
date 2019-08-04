@@ -5,7 +5,7 @@
 # Hackathon Phase 1
 
 ## Objective:
-Predict Instagram engagements using based on the following information: 
+Predict Instagram engagements based on the following information: 
 - `Followers at Posting` - (int)
     - Number of followers NBA official has at time of posting
 - `Created` - (datetime)
