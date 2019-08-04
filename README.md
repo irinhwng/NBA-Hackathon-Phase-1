@@ -1,4 +1,4 @@
-<img src="./visuals/nba.png"> 
+<img src="./visuals/nba.png" style="float: left; margin: 30px; height: 90px"> 
 Authors: Erin Hwang, Vala Rahmani
 
 # Hackathon Phase 1
