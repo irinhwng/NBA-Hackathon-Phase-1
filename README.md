@@ -1,4 +1,4 @@
-<img src=".visuals/nba.png"> 
+<img src="./visuals/nba.png"> 
 Authors: Erin Hwang, Vala Rahmani
 
 # Hackathon Phase 1
